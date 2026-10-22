@@ -31,4 +31,5 @@ Image & Video Analysis OSINT focuses on examining photos and videos to uncover d
 | Reverse Image Search Anywhere      | [Find out more](../../osint-tools/reverse-image-search-anywhere.md)    |
 | ScreenshotChecker                  | [Find out more](../../osint-tools/screenshotchecker.md)                |
 | MapChecking                        | [Find out more](../../osint-tools/mapchecking.md)                      |
+| HeyUtils EXIF Viewer and Remover   | [Find out more](../../osint-tools/heyutils-exif-viewer-and-remover.md) |
 

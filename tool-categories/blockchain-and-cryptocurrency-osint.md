@@ -14,3 +14,4 @@ Blockchain Intelligence & Cryptocurrency OSINT focuses on analyzing public block
 | Public AML                     | [Find out more](../osint-tools/public-aml.md)                     |
 | Crypto Licensing Jurisdictions | [Find out more](../osint-tools/crypto-licensing-jurisdictions.md) |
 | FreezeRadar                    | [Find out more](../osint-tools/freezeradar.md)                    |
+| Blockchair                     | [Find out more](../osint-tools/blockchair.md)                     |

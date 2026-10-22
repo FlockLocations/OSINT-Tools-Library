@@ -4,6 +4,8 @@ description: 'Tool Description : Telegram search engine.'
 
 # Deaddrop
 
+**IMPORTANT UPDATE: The open-source platform has now closed.** Newsrooms, security teams, researchers and investigative units now have to enquire re dedicated monitoring rooms for teams who want a watched environment, or API access for teams who want to query the index from their own stack.
+
 | **Deaddrop**     | **Quick Overview**                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------------- |
 | URL              | [https://deaddrop.theosintconsultants.com/login](https://deaddrop.theosintconsultants.com/login)  |

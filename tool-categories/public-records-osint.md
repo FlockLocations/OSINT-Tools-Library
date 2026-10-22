@@ -15,7 +15,6 @@ Public Records OSINT focuses on gathering information from Government and offici
 | EDGAR Full Text Search                            | [Find out more](../osint-tools/edgar-full-text-search.md)             |
 | Australia Public Record                           | [Find out more](../osint-tools/australia-public-record.md)            |
 | Corp Watch                                        | [Find out more](../osint-tools/corp-watch.md)                         |
-| Corporation Wiki                                  | [Find out more](../osint-tools/corporation-wiki.md)                   |
 | OpenCorporates                                    | [Find out more](../osint-tools/opencorporates.md)                     |
 | LittleSis                                         | [Find out more](../osint-tools/littlesis.md)                          |
 | Search Systems                                    | [Find out more](../osint-tools/search-systems.md)                     |

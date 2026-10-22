@@ -25,3 +25,5 @@ Cyber Threat Intelligence OSINT focuses on collecting and analysing publicly ava
 | Alien Vault OTX              | [Find out more](../osint-tools/alien-vault-otx.md)              |
 | ANY.RUN                      | [Find out more](../osint-tools/any.run.md)                      |
 | blocklist.de                 | [Find out more](../osint-tools/blocklist.de.md)                 |
+| Blacklight                   | [Find out more](../osint-tools/blacklight.md)                   |
+|                              |                                                                 |

@@ -30,3 +30,5 @@ Network & Infrastructure OSINT focuses on discovering, indexing, and analyzing i
 | Active DNS       | [Find out more](../osint-tools/activedns.md)         |
 | PageSourceSearch | [Find out more](../osint-tools/pagesource-search.md) |
 | CC.LA            | [Find out more](../osint-tools/cc.la.md)             |
+| EnvTrace         | [Find out more](../osint-tools/envtrace.md)          |
+| Blacklight       | [Find out more](../osint-tools/blacklight.md)        |
